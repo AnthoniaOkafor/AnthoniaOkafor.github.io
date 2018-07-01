@@ -43,3 +43,6 @@ input[type=number] {
     width: 6em;
 	color: #3F51B5;
 }
+input[type=submit] {
+    color: #3F51B5;
+}
